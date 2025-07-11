@@ -7,9 +7,9 @@ if((test-path $reportpath) -like $false)
 {
 new-item $reportpath -type file
 }
-$smtphost = "smtp.labtest.com" 
-$from = "DoNotReply@labtest.com" 
-$email1 = "Sukhija@labtest.com"
+$smtphost = "smtp.glcortex.com.br" 
+$from = "DoNotReply@glcortex.com.br" 
+$email1 = "Sukhija@glcortex.com.br"
 $timeout = "60"
 
 ###############################HTml Report Content############################
