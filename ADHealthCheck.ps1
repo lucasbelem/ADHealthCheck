@@ -1,11 +1,4 @@
-#############################################################################
-#       Author: Vikas Sukhija
-#       Reviewer:    
-#       Date: 12/25/2014
-#       Satus: Ping,Netlogon,NTDS,DNS,DCdiag Test(Replication,sysvol,Services)
-#       Update: Added Advertising
-#       Description: AD Health Status
-#############################################################################
+
 ###########################Define Variables##################################
 
 $reportpath = ".\ADReport.htm" 
